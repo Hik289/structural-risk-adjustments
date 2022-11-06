@@ -1,0 +1,23 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Structured Multi-factor risk models}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Factor choosing}{4}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Style Factor}{5}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Industry Factor}{5}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Country Factor}{6}{subsubsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.2}factor return}{6}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Factor exposure data processing}{6}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Calculation of factor returns}{8}{subsubsection.2.2.2}%
+\contentsline {section}{\numberline {3}Estimation of the risk matrix}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Factor return covariance matrix}{10}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Newey-West adjustment}{10}{subsubsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.2}Idiosyncratic return variance matrix}{12}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Newey-West adjustment}{13}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Structural adjustment}{14}{subsubsection.3.2.2}%
+\contentsline {section}{\numberline {4}Application of multi-factor risk model in portfolio optimization}{17}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Minimum risk portfolio}{19}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Optimize portfolio weight to minimize absolute risk}{19}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Optimize difference of weight to minimize active risk}{20}{subsubsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.2}Portfolio that maximizes risk-adjusted return}{21}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Optimize portfolio weight to maximize absolute return}{23}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Optimize difference of weight to maximize active return}{24}{subsubsection.4.2.2}%
+\contentsline {section}{\numberline {5}Summary}{28}{section.5}%
